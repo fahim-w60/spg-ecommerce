@@ -1,0 +1,16 @@
+/* backend */
+.custom-toastr {
+    color: red; /* Change to your desired color */
+}
+.visually-disabled {
+    color: grey; 
+    pointer-events: none;
+}
+
+/* frontend */
+header .onhover-category-list .onhover-category-box{
+   height: 300px !important;
+}
+/* #onhover-category-box{
+    width: 250px !important;
+} */
